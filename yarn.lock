@@ -1634,12 +1634,12 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@dooboo-ui/native-theme@^0.1.5":
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/@dooboo-ui/native-theme/-/native-theme-0.1.5.tgz#9766abeb8d24abd6e611adf6782fdffd3aee2f00"
-  integrity sha512-jQuX/aYlxyD0dZWzU1JXVNgMdueBJ5jCtYZTL/UuvM5YINZPcfzpGCMy4a5yso2fozY++ZAhrNTzUP4jXn3ZrQ==
+"@dooboo-ui/native-theme@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@dooboo-ui/native-theme/-/native-theme-0.1.6.tgz#fd204e0641900bb07b440e6e80e68b9c9afc59ef"
+  integrity sha512-IiEBEywTb21fInOqIr4wcSD3q61ZQnrQW+Kaj3+T3RoS968n1z5JzViRW/RZkSM5eh0s39mvtxqeoDxBdM6BIA==
   dependencies:
-    dooboolab-welcome "^1.1.1"
+    dooboolab-welcome "^1.2.0"
 
 "@dooboo/eslint-config@^0.3.8":
   version "0.3.8"
@@ -3638,10 +3638,10 @@ domexception@^1.0.1:
   dependencies:
     webidl-conversions "^4.0.2"
 
-dooboolab-welcome@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/dooboolab-welcome/-/dooboolab-welcome-1.1.1.tgz#ca2184f6e1f568865d707a6ce3bda7e003550f54"
-  integrity sha512-tQ/9NBCGnalHwKOBjDqTD4t4wQpDfSSbxQGctzkzaLHR3AhN0wCBkIs05JciVtvl/jfLZ+DgAndktAMk3Bu7Vw==
+dooboolab-welcome@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/dooboolab-welcome/-/dooboolab-welcome-1.2.0.tgz#295818ce85a8e97dc90c0ec0510b4008e2d722dc"
+  integrity sha512-XgEbjJHAsKLge/e8jtuHsv84Ovg1Gx0GvnOTOmOlVGV1643nduTAkT3fyo/mxKbzvyXBr47RHaJAY4R2toI0UA==
 
 ecc-jsbn@~0.1.1:
   version "0.1.2"
