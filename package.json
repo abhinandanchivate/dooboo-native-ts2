@@ -34,7 +34,7 @@
     "build:android": "react-native bundle --entry-file index.js --platform android --dev false --bundle-output android/main.jsbundle --assets-dest ./android"
   },
   "dependencies": {
-    "@dooboo-ui/native-theme": "^0.1.5",
+    "@dooboo-ui/native-theme": "^0.1.7",
     "@react-native-community/async-storage": "^1.8.1",
     "@react-native-community/masked-view": "^0.1.6",
     "@react-navigation/core": "^5.2.0",
